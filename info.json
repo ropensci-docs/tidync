@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ddf0f25788ce7a7b8bfe09ce14a798ecb9bacb57",
+    "author": "Michael Sumner <mdsumner@gmail.com>",
+    "time": "2020-06-30 02:43:38",
+    "files": 1,
+    "merge": false,
+    "message": "you have a whitespace syntax error BOOP\n"
+  },
+  "remote": "https://github.com/ropensci/tidync",
+  "pkg": "tidync"
+}
