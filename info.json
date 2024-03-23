@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "7968b43480bf76ca3487cfd211ce9714091df7d6",
+    "author": "Michael Sumner <mdsumner@gmail.com>",
+    "time": "2023-10-25 02:29:43",
+    "files": 2,
+    "merge": false,
+    "message": "add contributor\n"
+  },
+  "repo": "https://github.com/ropensci/tidync",
+  "pkg": "tidync"
+}
