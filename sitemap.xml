@@ -1,0 +1,25 @@
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://docs.ropensci.org/tidync/404.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/CONDUCT.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/CONTRIBUTING.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/articles/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/articles/netcdf-with-tidync.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/authors.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/news/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/activate.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/hyper_array.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/hyper_filter.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/hyper_tbl_cube.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/hyper_tibble.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/hyper_transforms.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/hyper_vars.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/nc_get.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/print.tidync.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/print.tidync_data.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/reexports.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/tidync-package.html</loc></url>
+<url><loc>https://docs.ropensci.org/tidync/reference/tidync.html</loc></url>
+</urlset>
+

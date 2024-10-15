@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "66ee83cdfa084dcd6b7e81176689f5f348cd6253",
+    "author": "Michael Sumner <mdsumner@gmail.com>",
+    "time": "2024-10-15 20:28:54",
+    "files": 6,
+    "merge": true,
+    "message": "Merge pull request #129 from pvanlaake/main\n\nFixing character lat/long columns in hypertibble() #128"
+  },
+  "repo": "https://github.com/ropensci/tidync",
+  "pkg": "tidync"
+}
